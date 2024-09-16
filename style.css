@@ -2,7 +2,7 @@
 
 /* Suppression des marges et du padding par défaut et application de box-sizing pour tous les éléments */
 * {
-    margin: 1;
+    margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
