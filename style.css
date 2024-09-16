@@ -190,7 +190,7 @@ header nav ul li a {
 }
 
 #possibilities article {
-    flex-basis: 45%; /* Chaque article prend environ 45% de l'espace disponible */
+    flex-basis: 46%; /* Chaque article prend environ 45% de l'espace disponible */
     margin-bottom: 20px;
     border-radius: 10px; /* Coins arrondis */
     float: left;
